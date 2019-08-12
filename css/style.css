@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: lightblue;
+}
+
+.member__heading {
+  font-size: 35px;
+  color: blue;
+}
+
+.member__text {
+  font-size: 20px;
+  background-color: blue;
+}
+
+.member__email {
+  font-size: 20px;
+  margin: 50px;
+  color: blue;
+}
